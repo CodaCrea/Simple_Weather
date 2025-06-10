@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>LSRequiresIPhoneOS</key>
+		<true />
+		<key>UIDeviceFamily</key>
+		<array>
+			<integer>1</integer>
+			<integer>2</integer>
+		</array>
+		<key>UIRequiredDeviceCapabilities</key>
+		<array>
+			<string>arm64</string>
+		</array>
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+		</array>
+		<key>UISupportedInterfaceOrientations~ipad</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+			<string>UIInterfaceOrientationPortraitUpsideDown</string>
+			<string>UIInterfaceOrientationLandscapeLeft</string>
+			<string>UIInterfaceOrientationLandscapeRight</string>
+		</array>
+		<key>XSAppIconAssets</key>
+		<string>Assets.xcassets/appicon.appiconset</string>
+		<key>CFBundleDisplayName</key>
+		<string>Simple Weather</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.codacrea.weather</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0.0</string>
+		<key>UIRequiresFullScreen</key>
+		<true />
+		<!-- Autorisations de géolocalisation -->
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>Cette application utilise votre position pour afficher la météo locale.</string>
+		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+		<string>Cette application utilise votre position pour fournir des mises à jour météo précises en
+			fonction de votre emplacement.</string>
+		<!-- Autorisations de géolocalisation -->
+	</dict>
+</plist>
