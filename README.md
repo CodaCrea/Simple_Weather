@@ -14,6 +14,8 @@ Elle permet :
 
 Téléchargement et installation possible de l’APK sur un téléphone Android :
 
+👉 [Télécharger Simple Weather](https://raw.githubusercontent.com/CodaCrea/Simple_Weather/main/com.simpleweather.app.apk)
+
 ⚠️ Pour installer l'APK, autoriser l'installation depuis des sources inconnues dans les paramètres Android.
 
 ---
