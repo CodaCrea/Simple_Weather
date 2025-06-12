@@ -417,3 +417,4 @@ FodyWeavers.xsd
 # Folder Key
 Key/*
 MauiAppWeather/Properties/Secrets.props
+.idea/workspace.xml
